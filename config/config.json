@@ -1,6 +1,6 @@
 {
-  "SECRET_KEY" : "",
-  "SQLALCHEMY_DATABASE_URI" : "",
+  "SECRET_KEY" : "kjhiguyfxdfcgvhbjnlkhjghc",
+  "SQLALCHEMY_DATABASE_URI" : "postgresql://postgres:data123@localhost:5432/dashboard",
   "SQLALCHEMY_TRACK_MODIFICATIONS" : false,
   "DATA_FOLDER" : "data",
   "TEMPLATE_FOLDER" : "templates"
