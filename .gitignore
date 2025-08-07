@@ -142,6 +142,7 @@ env/
 venv/
 data/
 config/config.json
+web/migrations/
 ENV/
 env.bak/
 venv.bak/
